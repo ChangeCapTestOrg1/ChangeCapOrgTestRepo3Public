@@ -1,5 +1,5 @@
 # ChangeCapOrgTestRepo3Public
 
-commit changes: 1
+commit changes: 2
 Fake merge commit #3
 Pull request - #108
