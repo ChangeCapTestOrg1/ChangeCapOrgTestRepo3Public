@@ -9,5 +9,6 @@
 - [] Partial (Not Ready for QA)
 - [] Complete (Ready for QA)
 
-#### External Ticket Link (i.e. Jira) - Paste link on a new line below:
+#### External Ticket Link (i.e. Jira)
+- Paste link on a new line below:
 
